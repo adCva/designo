@@ -1,0 +1,11 @@
+.intro-component-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    .intro-component-wrapper {
+        background-color: orange;
+        width: 90%;
+        max-width: 1350px;
+    }
+}

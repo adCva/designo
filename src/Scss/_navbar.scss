@@ -1,0 +1,26 @@
+.navbar-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    .navbar-wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        max-width: 1350px;
+        
+        .logo-link {
+            text-decoration: none;
+        }
+
+        .right-container {
+        }
+
+        .nav-link {
+            text-decoration: none;
+            padding: 0 0.75rem;
+            color: #000;
+        }
+    }
+}
