@@ -10,7 +10,7 @@ function IntroComponent(props) {
                 <button>Learn More</button>
             </div>
             <div className="right-container">
-
+                
             </div>
         </div>
     </div>
